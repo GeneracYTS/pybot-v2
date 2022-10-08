@@ -38,15 +38,15 @@ global.snh = '-' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '083152910041' //dana
-global.povo = '083152910042' //ovo
+global.povo = '083152910041' //ovo
 global.pgopay = 'minta ke owner' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '083152910042' //telkomsel
+global.ppulsa = '083152910041' //telkomsel
 global.ppulsa2 = '-' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6289527052139'
+global.nomorbot = '6281539827671'
 global.nomorown = '6283152910041'
 global.namebot = 'PyBot-MD'
 global.nameown = 'Lanz'
